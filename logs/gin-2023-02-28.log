@@ -1,0 +1,5 @@
+{"level":"INFO","time":"2023-02-28T09:28:22.699+0800","caller":"api/index_controller.go:23","msg":"这是一个日志"}
+{"level":"INFO","time":"2023-02-28T10:20:41.970+0800","caller":"api/index_controller.go:23","msg":"这是一个日志"}
+{"level":"INFO","time":"2023-02-28T10:20:51.954+0800","caller":"api/index_controller.go:23","msg":"这是一个日志"}
+{"level":"INFO","time":"2023-02-28T10:20:52.434+0800","caller":"api/index_controller.go:23","msg":"这是一个日志"}
+{"level":"INFO","time":"2023-02-28T10:23:36.545+0800","caller":"api/index_controller.go:23","msg":"这是一个日志"}
